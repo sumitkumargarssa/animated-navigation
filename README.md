@@ -3,13 +3,11 @@ Day 08 / 100 Days of Coding and Learning Challenge animated-navigation using onl
 
 # Animated Navigation Bar
 
-![Demo](demo.gif)
-
 This repository contains code for an animated navigation bar implemented using HTML, CSS, and JavaScript. The navigation bar features smooth animations and transitions to enhance the user experience.
 
 ## Demo
 
-Check out the [live demo](https://example.com) to see the navigation bar in action.
+Check out the [live demo]([https://example.com](https://sumitkumargarssa.github.io/animated-navigation/) to see the navigation bar in action.
 
 ## Features
 
@@ -22,7 +20,7 @@ Check out the [live demo](https://example.com) to see the navigation bar in acti
 1. Clone the repository:
 
    ```
-   git clone https://github.com/yourusername/animated-navigation-bar.git
+   git clone https://github.com/sumitkumargarssa/animated-navigation.git
    ```
 
 2. Open the `index.html` file in your web browser to see the animated navigation bar.
