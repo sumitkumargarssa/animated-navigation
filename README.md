@@ -7,7 +7,7 @@ This repository contains code for an animated navigation bar implemented using H
 
 ## Demo
 
-Check out the [live demo]([https://example.com](https://sumitkumargarssa.github.io/animated-navigation/) to see the navigation bar in action.
+Check out the [live demo](https://sumitkumargarssa.github.io/animated-navigation/) to see the navigation bar in action.
 
 ## Features
 
